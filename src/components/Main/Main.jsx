@@ -23,7 +23,7 @@ const ExpenseTracker = () => {
       <CardHeader title="Expense Tracker" subheader="Powered by Speechly" />
       <CardContent>
         <Typography align="center" variant="h5">
-          Total Balance ${balance}
+          Total Balance ₹{balance}
         </Typography>
         <Typography
           variant="subtitle1"
